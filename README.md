@@ -1,7 +1,7 @@
 ## Getting Started
 
 
-This example demonstrates how to use thirdweb Auth with NextJS.
+This example demonstrates how to use thirdweb Auth + Next Auth and store your users in a PostgreSQL database.
 
 To run the project, first clone this repository, and then run one of the following commands to install the dependencies:
 
